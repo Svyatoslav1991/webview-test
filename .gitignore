@@ -1,0 +1,10 @@
+# Игнорировать временные файлы и каталоги, созданные Qt
+.qmake.stash
+.qmake.winrt_uuid_webview-test
+Makefile
+Makefile.Debug
+Makefile.Release
+debug/
+release/
+ui_mainwindow.h
+webview-test.pro.user
